@@ -6,6 +6,14 @@
 
 # Anotações
 
+### Características de um Software
+- A principal característica que devemos buscar ao construir um Software é que ele seja **altamente modificavel**
+- Devemos sempre nos perguntar: _“Quão fácil é modificar este software a curto, médio e longo prazo?”_
+- Uma arquitetura simples, aliada a uma modelagem de pastas clara e coerente, é fundamental para facilitar o entendimento e a evolução do código.
+- O objetivo é construir um software modular e extensível, como uma espaçonave: capaz de receber novos módulos e funcionalidades conforme necessário — seja para transportar pessoas, cargas ou executar qualquer nova missão.
+
+--- 
+
 ### Diferença de **Poc** e **Mvp**
 
 Poc == Prova de Conceito
